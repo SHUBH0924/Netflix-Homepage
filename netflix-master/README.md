@@ -1,6 +1,6 @@
 # Netflix Clone
 
-Clone of the Netflix website as a light HTML CSS and JS excercise - [Take a look](https://bankole2000.github.io/netflix)
+Clone of the Netflix website as a light HTML CSS and JS excercise 
 
 [![Practice](https://img.shields.io/badge/Practice-HTML/CSS/JS-orange.svg)](https://bankole2000.github.io/netflix)
 
@@ -17,7 +17,6 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - CSS
 - Vanilla JS - ES6
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
 
 ## What it does
 
